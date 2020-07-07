@@ -11,11 +11,11 @@ The script `AddMusicArtwork.py` automates the process of adding thumbnail cover 
 
 ## Pre-requisite folder structure
 Folder structure:
-  Artwork/
-  Music/
-  Thumbnails/
-  AddMusicArtwork.py
-  README.md
+* Artwork/
+* Music/
+* Thumbnails/
+* AddMusicArtwork.py
+* README.md
 
 Within the `Artwork/` and `Music/` folders, you need to have matching file names (excluding file extensions) and a matching number of files. Example:
   Artwork/Somewhere I Belong - Linkin Park.png
@@ -81,6 +81,8 @@ This script implements the following Ubuntu commands.
 * Version 1.0
   * Everything
 * Version 1.0.1
+  * README.md updates
+* Version 1.0.2
   * README.md updates
 
 ## Possible Future Work
