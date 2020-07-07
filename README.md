@@ -1,5 +1,5 @@
 # Add Music Artwork
-The script `AddMusicArtwork.py` automates the process of adding thumbnail cover art images to an MP3 file.
+The script `AddMusicArtwork.py` automates the process of adding thumbnail cover art images to MP3 files.
 
 ## Required installations prior to running the script
 * Python 3.8.2
@@ -77,6 +77,12 @@ This script implements the following Ubuntu commands.
 #### Removing artwork from audio files
 * eyeD3 --remove-all-images "Music/audio.mp3"
 
+## Changelog
+* Version 1.0
+  * Everything
+* Version 1.0.1
+  * README.md updates
+
 ## Possible Future Work
 * Removal of dependency on Ubuntu packages, thereby enabling Windows and MacOS support
 * Enabling of user configuration for folder names and paths
@@ -85,7 +91,7 @@ This script implements the following Ubuntu commands.
 ## Last Remarks
 Yeah, I spent a good Sunday evening writing this script and then polishing it thereafter on the ensuing Monday evening. The script suits my current needs, so most likely I won't add any additional support or features.
 
-- FriskySaga
+~ FriskySaga
 
 P.S. My sample files inside the folders are 0 KB ;)
 
